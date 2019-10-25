@@ -1,4 +1,4 @@
-一致性Hash
+一致性Hash..
 https://www.jianshu.com/p/e968c081f563
 
 
