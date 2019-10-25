@@ -1,3 +1,6 @@
+https://blog.csdn.net/weixin_45273693/article/details/100108965
+
+
 一致性Hash..
 https://www.jianshu.com/p/e968c081f563
 
