@@ -1,5 +1,5 @@
 https://blog.csdn.net/weixin_45273693/article/details/100108965
-
+https://blog.csdn.net/qq_39472671/article/details/88704137
 
 一致性Hash..
 https://www.jianshu.com/p/e968c081f563
