@@ -304,6 +304,22 @@ lient发送了第一个连接的请求报文，但是由于网络不好，这个
 FIN报文时，很可能并不会立即关闭 SOCKET，所以只能先回复一个ACK报文，告诉Client端，"你发的FIN报文我收到了"。只有等到我Server端所有的报文都发送完了，我才能
 发送FIN报文，因此不能一起发送。故需要四步挥手
 
+## Java 异常结构
+Throwable - 
+Error 
+Exception
+ - IOException
+ - RuntimeException
+ - SQLException
+ - 用户自定义异常
+ 
+ 不检查异常：编译的时候不会检查 RuntimeException
+ 检查异常：IO SQL 自定义都会检查
+ 
+ 
+
+ 
+
 
 
 
