@@ -345,8 +345,9 @@ https://www.jianshu.com/p/ac61d9427d6f
  ## 分布式事务
  https://blog.csdn.net/qq_27384769/article/details/79305402
  
-
- 
+## 大型电商系统的高并发的优化经验
+ https://blog.csdn.net/weixin_34032827/article/details/92421607
+ 参考一些其他的
 
 
 
