@@ -339,9 +339,8 @@ https://www.jianshu.com/p/ac61d9427d6f
 
 ## sentinel和hystrix的区别？我知道拼多多这二个框架都有使用，限流的一些参数怎么设置，依据是什么表的
 
-
-
- 
+## 分布式数据库中间件—TDDL的使用介绍
+ https://www.2cto.com/database/201806/752199.html
  
 
  
