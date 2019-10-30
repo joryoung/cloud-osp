@@ -315,6 +315,22 @@ Exception
  
  不检查异常：编译的时候不会检查 RuntimeException
  检查异常：IO SQL 自定义都会检查
+
+
+
+## 基于Nginx+Redis+jvm堆缓存的多级缓存架构设计
+https://www.cnblogs.com/z-3FENG/p/9603321.html
+
+## Redis分布式集群倾斜问题
+http://www.dataguru.cn/article-14564-1.html
+
+
+## 服务熔断与降级（Hystrix）
+https://blog.csdn.net/pengjunlee/article/details/86688858
+
+## sentinel和hystrix的区别？我知道拼多多这二个框架都有使用，限流的一些参数怎么设置，依据是什么
+
+
  
  
 
