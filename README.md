@@ -331,6 +331,16 @@ https://blog.csdn.net/pengjunlee/article/details/86688858
 ## sentinel和hystrix的区别？我知道拼多多这二个框架都有使用，限流的一些参数怎么设置，依据是什么
 
 
+## 订单表拆表的优化逻辑
+https://blog.csdn.net/FansUnion/article/details/79621049
+https://www.jianshu.com/p/ac61d9427d6f
+拆表  订单的查询   
+
+
+## sentinel和hystrix的区别？我知道拼多多这二个框架都有使用，限流的一些参数怎么设置，依据是什么表的
+
+
+
  
  
 
