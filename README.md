@@ -342,6 +342,9 @@ https://www.jianshu.com/p/ac61d9427d6f
 ## 分布式数据库中间件—TDDL的使用介绍
  https://www.2cto.com/database/201806/752199.html
  
+ ## 分布式事务
+ https://blog.csdn.net/qq_27384769/article/details/79305402
+ 
 
  
 
