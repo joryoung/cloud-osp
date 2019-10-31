@@ -348,6 +348,8 @@ https://www.jianshu.com/p/ac61d9427d6f
 ## 大型电商系统的高并发的优化经验
  https://blog.csdn.net/weixin_34032827/article/details/92421607
  参考一些其他的
+ 
+ DDD
 
 
 
