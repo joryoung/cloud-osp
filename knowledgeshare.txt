@@ -3,3 +3,15 @@ EnableDiscoveryClient &  EnableEurekaClient
 @EnableDiscoveryClient基于spring-cloud-commons，并且在classpath中实现。
 @EnableEurekaClient基于spring-cloud-netflix，只能为eureka作用。
 就是如果选用的注册中心是eureka推荐@EnableEurekaClient，如果是其他的注册中心推荐使用@EnableDiscoveryClient，如果classpath中添加了eureka，则它们的作用是一样的。
+
+Eureka相关问题：
+<img src="http://springcloud-new.oss-cn-shenzhen.aliyuncs.com/557acb86ec02ca8a99e4ac99ed3fa357.jpg?Expires=1840549313&OSSAccessKeyId=LTAI57F52hRuWq3h&Signature=%2BFDHTedhDpsuXBVW3L9iOUvt7Eg%3D"/>
+Eureka之server端集群节点发现，数据同步，增加集群节点后的同步
+Eureka单点实例量最大支持数量，心跳默认30秒，如果心跳频繁对服务器的影响
+Eureka服务故障保持高可用（单点故障，多点故障，全体故障），实例数据不同步问题
+服务注册多个eureka什么场景下使用
+
+第三方Rest服务集成，通过feign调用方式，第三方（外部系统 & 内部其他系统）
+feign调用方式
+
+
