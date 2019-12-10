@@ -358,6 +358,19 @@ https://www.jianshu.com/p/ac61d9427d6f
  
  二级缓存机制及数据一致性问题
  堆内存（Ehcache） + 数据库缓存（Redis）
+
+
+跨域访问：
+Access-Control-Allow-Origin：*  允许所有域名的脚本访问该资源  
+Access-Control-Allow-Credentials：true   是否允许后续请求携带认证信息（cookies）,该值只能是true,否则不返回
+
+检查该方法A上是否有B注解A
+AnnotationUtils.findAnnotation（A,B）
+A: Method
+B: @Nullable Annotation
+
+
+
  
 
 
