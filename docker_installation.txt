@@ -1,0 +1,42 @@
+1. 查看操作系统uname -a
+2. 查看系统版本
+Redhat
+cat /etc/redhat-release  显示：CentOS Linux release 7.2.1511 (Core)
+注意 ： docker需要Centos7以上版本
+
+3.卸载旧版本(如果安装过旧版本的话)
+$ yum remove docker \
+      docker-common \
+      docker-selinux \
+      docker-engine
+      
+4.安装需要的软件包
+#yum-util提供yum-config-manager功能
+#另外两个是devicemapper驱动依赖的
+$ yum install -y yum-utils \
+  device-mapper-persistent-data \
+  lvm2
+  
+5.设置yum源
+$ yum-config-manager \
+    --add-repo \
+    https://download.docker.com/linux/centos/docker-ce.repo
+    
+6.安装docker
+a 最新版本安装
+$ yum install -y docker-ce  (
+
+b 指定版本安装
+执行 1）. yum list docker-ce --showduplicates | sort -r  然后执行 2
+docker-ce.x86_64            17.09.1.ce-1.el7.centos            docker-ce-stable
+docker-ce.x86_64            17.09.0.ce-1.el7.centos            docker-ce-stable
+
+2）. yum install -y docker-ce-17.09.0.ce
+
+
+
+
+      
+
+
+
