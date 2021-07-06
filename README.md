@@ -398,5 +398,75 @@ https://github.com/google/guava/wiki
 
 
 
+CONFIDENTIAL
+
+Approved 
+
+
+Thanks and regards
+______________________________________________________________
+Liam Li
+Senior Development Manager
+CIBFM-TradePostTrade-TJ-Prj
+
+Standard Chartered Global Business Services Co., Ltd.
+(formerly known as Scope International (China) Co., Ltd.)
+Phone:   02258573165
+Address: Standard Chartered Center,  2/F No.35 Xinhuanbei Road, 
+              TEDA,  Tianjin - 300457
+E-mail:   Liam.Li@sc.com
+______________________________________________________________
+Please consider the environment before printing this email
+
+From: Yang3, Chen <Chen.Yang3@sc.com> 
+Sent: Monday, June 28, 2021 2:05 PM
+To: Li, Liam <Liam.Li@sc.com>
+Subject: Please Approve My Timesheet For June 2021
+
+CONFIDENTIAL
+
+Hi  Liam
+
+Please approve my timesheet for June 2021 ,  approval mail please cc to :     cl.tj.timesheet@clpsglobal.com    involve attachment 
+
+
+Name	杨陈		PWID	 	
+					
+Company	ChinaLink		Month	24-Jun	
+					
+					
+					
+Date	Hrs	Date	Hrs	Date	Hrs
+1	8	11	8	21	SU
+2	8	12	SA	22	8
+3	8	13	SU	23	8
+4	8	14	PH	24	8
+5	SA	15	8	25	8
+6	SU	16	8	26	8
+7	8	17	8	27	SA
+8	8	18	8	28	SU
+9	8	19	8	29	8
+10	8	20	SA	30	8
+ 	 	 	 	31	8
+Total Working Day:	22	 	 		
+								
+Total over time hour							
+SA = Satudary	SU = Sunday	AL=Annual Leave	
+ML=Medical Leave	PH=Public Holiday	NJ= Not Joined	
+					
+					
+Requestor Signature: Yang Chen 杨陈		
+Date: 24-Jun-2021				
+					
+Line Manager Name:		
+Signature		
+Date: 				
+								
+
+
+
+
+Thanks and regards
+Yang Chen
 
 
