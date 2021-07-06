@@ -396,77 +396,274 @@ https://github.com/google/guava/wiki
 
 
 
-
-
-CONFIDENTIAL
-
-Approved 
-
-
-Thanks and regards
-______________________________________________________________
-Liam Li
-Senior Development Manager
-CIBFM-TradePostTrade-TJ-Prj
-
-Standard Chartered Global Business Services Co., Ltd.
-(formerly known as Scope International (China) Co., Ltd.)
-Phone:   02258573165
-Address: Standard Chartered Center,  2/F No.35 Xinhuanbei Road, 
-              TEDA,  Tianjin - 300457
-E-mail:   Liam.Li@sc.com
-______________________________________________________________
-Please consider the environment before printing this email
-
-From: Yang3, Chen <Chen.Yang3@sc.com> 
-Sent: Monday, June 28, 2021 2:05 PM
-To: Li, Liam <Liam.Li@sc.com>
-Subject: Please Approve My Timesheet For June 2021
-
-CONFIDENTIAL
-
-Hi  Liam
-
-Please approve my timesheet for June 2021 ,  approval mail please cc to :     cl.tj.timesheet@clpsglobal.com    involve attachment 
-
-
-Name	杨陈		PWID	 	
-					
-Company	ChinaLink		Month	24-Jun	
-					
-					
-					
-Date	Hrs	Date	Hrs	Date	Hrs
-1	8	11	8	21	SU
-2	8	12	SA	22	8
-3	8	13	SU	23	8
-4	8	14	PH	24	8
-5	SA	15	8	25	8
-6	SU	16	8	26	8
-7	8	17	8	27	SA
-8	8	18	8	28	SU
-9	8	19	8	29	8
-10	8	20	SA	30	8
- 	 	 	 	31	8
-Total Working Day:	22	 	 		
-								
-Total over time hour							
-SA = Satudary	SU = Sunday	AL=Annual Leave	
-ML=Medical Leave	PH=Public Holiday	NJ= Not Joined	
-					
-					
-Requestor Signature: Yang Chen 杨陈		
-Date: 24-Jun-2021				
-					
-Line Manager Name:		
-Signature		
-Date: 				
-								
-
-
-
-
-Thanks and regards
-Yang Chen
-
-
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type content="text/html; charset=gb2312"><meta name=Generator content="Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:ËÎÌå;
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:"\@ËÎÌå";
+	panose-1:2 1 6 0 3 1 1 1 1 1;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#6D6E71;
+	text-decoration:underline;}
+p.msipheader194d5149, li.msipheader194d5149, div.msipheader194d5149
+	{mso-style-name:msipheader194d5149;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.EmailStyle24
+	{mso-style-type:personal-reply;
+	font-family:"Arial",sans-serif;
+	color:windowtext;
+	font-weight:normal;
+	font-style:normal;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1492872565;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1342062680 -1723419700 134807555 134807557 134807553 134807555 134807557 134807553 134807555 134807557;}
+@list l0:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\F0F0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;
+	mso-fareast-font-family:µÈÏß;
+	mso-bidi-font-family:Arial;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1
+	{mso-list-id:1706826864;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-4569534 727984062 134807555 134807557 134807553 134807555 134807557 134807553 134807555 134807557;}
+@list l1:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\F0F0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;
+	mso-fareast-font-family:µÈÏß;
+	mso-bidi-font-family:Arial;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2
+	{mso-list-id:2082167144;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-1100319764 -1989772540 134807555 134807557 134807553 134807555 134807557 134807553 134807555 134807557;}
+@list l2:level1
+	{mso-level-start-at:0;
+	mso-level-number-format:bullet;
+	mso-level-text:\F0F0;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	margin-left:38.25pt;
+	text-indent:-20.25pt;
+	font-family:Wingdings;
+	mso-fareast-font-family:µÈÏß;
+	mso-bidi-font-family:Arial;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:"Courier New";}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0A7;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Wingdings;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext="edit" spidmax="1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext="edit">
+<o:idmap v:ext="edit" data="1" />
+</o:shapelayout></xml><![endif]--></head><body lang=EN-GB link="#6D6E71" vlink="#2890C0"><div class=WordSection1><p class=msipheader194d5149 style='margin:0in;margin-bottom:.0001pt'><span style='font-size:9.0pt;font-family:"Arial",sans-serif;color:#A80000'>CONFIDENTIAL</span><o:p></o:p></p><p class=MsoNormal><span style='font-size:12.0pt;font-family:ËÎÌå'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><a name="_GoBack"></a><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Approved <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><div><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>Thanks and regards<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>______________________________________________________________<o:p></o:p></span></p><p class=MsoNormal><b><span style='font-size:10.0pt;font-family:"Arial",sans-serif;color:#0070C0;letter-spacing:.25pt'>Liam Li<o:p></o:p></span></b></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black'>Senior Development Manager</span><span style='font-size:8.0pt;color:black'><o:p></o:p></span></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>CIBFM-TradePostTrade-TJ-Prj<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>Standard Chartered Global Business Services Co., Ltd.<o:p></o:p></span></p><p class=MsoNormal><i><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>(formerly known as Scope International (China) Co., Ltd.)<o:p></o:p></span></i></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>Phone:&nbsp;&nbsp; 02258573165<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>Address: Standard Chartered Center,&nbsp; 2/F No.35 Xinhuanbei Road, <o:p></o:p></span></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TEDA,&nbsp; Tianjin - 300457<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>E-mail:&nbsp;&nbsp; Liam.Li@sc.com<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>______________________________________________________________<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:8.0pt;font-family:"Arial",sans-serif;color:black;letter-spacing:.25pt'>Please consider the environment before printing this email<o:p></o:p></span></p></div><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><div><div style='border:none;border-top:solid #E1E1E1 1.0pt;padding:3.0pt 0in 0in 0in'><p class=MsoNormal><b><span lang=EN-US>From:</span></b><span lang=EN-US> Yang3, Chen &lt;Chen.Yang3@sc.com&gt; <br><b>Sent:</b> Monday, June 28, 2021 2:05 PM<br><b>To:</b> Li, Liam &lt;Liam.Li@sc.com&gt;<br><b>Subject:</b> Please Approve My Timesheet For June 2021<o:p></o:p></span></p></div></div><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=msipheader194d5149 style='margin:0in;margin-bottom:.0001pt'><span style='font-size:9.0pt;font-family:"Arial",sans-serif;color:#A80000'>CONFIDENTIAL</span><o:p></o:p></p><p class=MsoNormal><o:p>&nbsp;</o:p></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Hi&nbsp; Liam<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Please approve my timesheet for June 2021&nbsp;</span><span lang=EN-US style='font-size:10.0pt;font-family:"Arial",sans-serif'>,</span><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>&nbsp;&nbsp;approval mail please cc to </span><span style='font-size:14.0pt;font-family:"Arial",sans-serif;color:#2352FF'>:&nbsp; &nbsp;&nbsp;&nbsp;<b><a href="mailto:cl.tj.timesheet@clpsglobal.com"><span style='color:#2352FF'>cl.tj.timesheet@clpsglobal.com</span></a></b></span><b><span style='font-size:10.0pt;font-family:"Arial",sans-serif'> &nbsp;&nbsp;&nbsp;involve attachment <o:p></o:p></span></b></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width=756 style='width:567.05pt;margin-left:.1pt;border-collapse:collapse'><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>Name<o:p></o:p></span></b></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal><span lang=ZH-CN style='font-size:10.5pt;font-family:ËÎÌå'>Ñî³Â</span><span style='font-size:10.5pt'><o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>PWID<o:p></o:p></span></b></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal><span style='font-size:10.5pt'>&nbsp;<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td></tr><tr style='height:15.75pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>Company<o:p></o:p></span></b></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>ChinaLink<o:p></o:p></span></b></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>Month<o:p></o:p></span></b></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>24-Jun<o:p></o:p></span></b></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td></tr><tr style='height:14.25pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td></tr><tr style='height:14.25pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td></tr><tr style='height:15.75pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.75pt'></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='color:black'>Date<o:p></o:p></span></b></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='color:black'>Hrs<o:p></o:p></span></b></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='color:black'>Date<o:p></o:p></span></b></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='color:black'>Hrs<o:p></o:p></span></b></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='color:black'>Date<o:p></o:p></span></b></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border:solid windowtext 1.0pt;border-left:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><b><span style='color:black'>Hrs<o:p></o:p></span></b></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>1<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>11<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>21<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>SU<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>2<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>12<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>SA<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>22<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>3<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>13<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>SU<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>23<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>4<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>14<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>PH<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>24<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>5<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>SA<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>15<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>25<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>6<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>SU<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>16<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>26<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>7<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>17<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>27<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>SA<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>18<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>28<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>SU<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>9<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>19<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>29<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>10<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>20<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>SA<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>30<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>&nbsp;<o:p></o:p></span></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>&nbsp;<o:p></o:p></span></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>&nbsp;<o:p></o:p></span></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>&nbsp;<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;border:solid windowtext 1.0pt;border-top:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>31<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=center style='text-align:center'><span style='color:black'>8<o:p></o:p></span></p></td></tr><tr style='height:16.5pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;border-top:none;border-left:solid windowtext 1.0pt;border-bottom:solid windowtext 1.0pt;border-right:none;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>Total Working Day:<o:p></o:p></span></b></p></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal align=right style='text-align:right'><b><span style='color:black'>22<o:p></o:p></span></b></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>&nbsp;<o:p></o:p></span></b></p></td><td width=145 nowrap valign=bottom style='width:109.0pt;border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>&nbsp;<o:p></o:p></span></b></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td></tr><tr style='height:16.5pt'><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=60 nowrap valign=bottom style='width:45.35pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=60 nowrap valign=bottom style='width:45.35pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=60 nowrap valign=bottom style='width:45.35pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td></tr><tr style='height:15.6pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt'><p class=MsoNormal><b><u><span style='color:black'>Total over time hour<o:p></o:p></span></u></b></p></td><td width=60 nowrap valign=bottom style='width:45.35pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt'></td><td width=60 nowrap valign=bottom style='width:45.35pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt'></td><td width=60 nowrap valign=bottom style='width:45.35pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt'></td><td width=104 nowrap style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt'></td><td width=145 nowrap style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt'></td><td width=113 nowrap style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt'></td><td width=71 nowrap style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:15.6pt'></td></tr><tr style='height:30.0pt'><td width=323 nowrap colspan=5 valign=bottom style='width:242.05pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span style='color:black'>SA = Satudary<o:p></o:p></span></p></td><td width=249 nowrap colspan=2 valign=bottom style='width:187.0pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span style='color:black'>SU = Sunday<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span style='color:black'>AL=Annual Leave<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'></td></tr><tr style='height:30.0pt'><td width=323 nowrap colspan=5 valign=bottom style='width:242.05pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span style='color:black'>ML=Medical Leave<o:p></o:p></span></p></td><td width=249 nowrap colspan=2 valign=bottom style='width:187.0pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span style='color:black'>PH=Public Holiday<o:p></o:p></span></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><span style='color:black'>NJ= Not Joined<o:p></o:p></span></p></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:30.0pt'></td></tr><tr style='height:14.25pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td></tr><tr style='height:14.25pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td></tr><tr style='height:16.5pt'><td width=572 nowrap colspan=7 valign=bottom style='width:429.05pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>Requestor Signature: Yang Chen </span></b><b><span lang=ZH-CN style='font-family:ËÎÌå;color:black'>Ñî³Â</span><span style='color:black'><o:p></o:p></span></b></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td></tr><tr style='height:16.5pt'><td width=323 nowrap colspan=5 valign=bottom style='width:242.05pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>Date: 24-Jun-2021<o:p></o:p></span></b></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td></tr><tr style='height:14.25pt'><td width=141 nowrap colspan=2 valign=bottom style='width:106.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=181 nowrap colspan=3 valign=bottom style='width:136.05pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:14.25pt'></td></tr><tr style='height:16.5pt'><td width=572 nowrap colspan=7 valign=bottom style='width:429.05pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>Line Manager Name:<o:p></o:p></span></b></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td></tr><tr style='height:16.5pt'><td width=572 nowrap colspan=7 valign=bottom style='width:429.05pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>Signature<o:p></o:p></span></b></p></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td></tr><tr style='height:16.5pt'><td width=323 nowrap colspan=5 valign=bottom style='width:242.05pt;border:none;border-bottom:solid windowtext 1.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'><p class=MsoNormal style='text-align:justify;text-justify:inter-ideograph'><b><span style='color:black'>Date: <o:p></o:p></span></b></p></td><td width=104 nowrap valign=bottom style='width:78.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=145 nowrap valign=bottom style='width:109.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=113 nowrap valign=bottom style='width:85.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td><td width=71 nowrap valign=bottom style='width:53.0pt;padding:0in 5.4pt 0in 5.4pt;height:16.5pt'></td></tr><tr><td width=71 style='width:53.25pt;padding:0in 0in 0in 0in'></td><td width=71 style='width:53.25pt;padding:0in 0in 0in 0in'></td><td width=60 style='width:45.0pt;padding:0in 0in 0in 0in'></td><td width=60 style='width:45.0pt;padding:0in 0in 0in 0in'></td><td width=60 style='width:45.0pt;padding:0in 0in 0in 0in'></td><td width=104 style='width:78.0pt;padding:0in 0in 0in 0in'></td><td width=145 style='width:108.75pt;padding:0in 0in 0in 0in'></td><td width=113 style='width:84.75pt;padding:0in 0in 0in 0in'></td><td width=71 style='width:53.25pt;padding:0in 0in 0in 0in'></td></tr></table><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Thanks and regards<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'>Yang Chen<o:p></o:p></span></p><p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p></div></body></html>
